@@ -1,0 +1,10 @@
+name: dashboard-v9-master
+title:
+account: ieda-project
+server: shinyapps.io
+appId: 155484
+bundleId: 719099
+url: https://ieda-project.shinyapps.io/dashboard-v9-master/
+when: 1487691402.0971
+asMultiple: FALSE
+asStatic: FALSE
